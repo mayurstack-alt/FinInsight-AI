@@ -1,0 +1,1 @@
+"""Private Supabase Storage integration."""

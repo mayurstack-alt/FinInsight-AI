@@ -1,0 +1,2 @@
+Alembic migration revisions are generated here after ORM models are approved.
+No business tables or migrations are included in the initial scaffold.

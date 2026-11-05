@@ -1,0 +1,39 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node and frontend build output
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Alembic local configuration overrides
+backend/alembic.ini.local
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and generated temporary documents
+*.log
+*.pdf
+*.tmp
+tmp/
+temp/

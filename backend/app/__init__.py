@@ -1,0 +1,1 @@
+"""FinInsight AI backend application."""
